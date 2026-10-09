@@ -103,6 +103,6 @@ I believe in learning by building, understanding the fundamentals, and creating 
 
 * LinkedIn: [Deneshwaran M](https://www.linkedin.com/in/deneshwaran21/)
 * GitHub: [My Repositories](https://github.com/Deneshwaran21/)
-* Portfolio: [[My Portfolio](https://deneshportfolio.netlify.app/)]
+* Portfolio: [My Portfolio](https://deneshportfolio.netlify.app/)
 
 **Build. Learn. Improve. Repeat.**
